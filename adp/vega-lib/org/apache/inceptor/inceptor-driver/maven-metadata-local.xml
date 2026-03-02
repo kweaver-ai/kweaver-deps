@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.inceptor-driver</groupId>
+  <artifactId>inceptor-driver</artifactId>
+  <versioning>
+    <versions>
+      <version>8.37.3</version>
+    </versions>
+    <lastUpdated>20240704031512</lastUpdated>
+  </versioning>
+</metadata>

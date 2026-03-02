@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <groupId>cn.aishu</groupId>
+    <artifactId>opentelemetry-exporter-ar-trace</artifactId>
+    <versioning>
+        <latest>2.4.0</latest> <!-- 最新版本 -->
+        <release>2.4.0</release> <!-- 发布版本 -->
+        <versions>
+            <version>2.4.0</version>
+        </versions>
+        <lastUpdated>20260124100000</lastUpdated>
+    </versioning>
+</metadata>
